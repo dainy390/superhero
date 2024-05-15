@@ -1,5 +1,4 @@
 # superhero
-# calculator
 Instructions
 ------------
 
